@@ -19,4 +19,4 @@ I’m a Technical Consultant at PwC, specializing in web development and Google 
 ## Blog / Content Creation:
 - I share tech insights, career tips, and actionable advice on LinkedIn and my personal blog. 
 
-## 💬 Let's collaborate and build something amazing together
+💬 Let's collaborate and build something amazing together
